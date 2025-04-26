@@ -9,6 +9,6 @@ Follow the code along. Let me know if you have any questions!
 
 ## References
 
-- [Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. https://ggplot2.tidyverse.org/.](https://ggplot2.tidyverse.org/). Click [here](https://ggplot2-book.org/) for the actual book (free).
+- [Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. https://ggplot2.tidyverse.org/](https://ggplot2.tidyverse.org/). Click [here](https://ggplot2-book.org/) for the actual book (free).
 
 - [Long J (2019). R Cookbook, 2nd Edition. https://rc2e.com/.](https://rc2e.com/)
